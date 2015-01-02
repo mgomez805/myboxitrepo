@@ -3,7 +3,7 @@
 if(isset($_POST['email'])) {	
     // EDIT THE 2 LINES BELOW AS REQUIRED
 	$source = $_POST['source'];
-	$email_to = "wdembiz@gmail.com, anastacia.brewer@gmail.com, dwightd@alumni.rice.edu, paul@boxit.biz";
+	$email_to = "wdembiz@gmail.com,dwightd@alumni.rice.edu, paul@boxit.biz";
    	$email_subject = "NEW LEED - SOURCE:".$source;
  	$return_message = "Thank you for contacting us. We will be in touch with you very soon.";
 
