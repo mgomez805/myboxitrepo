@@ -24,6 +24,19 @@ img{max-width:100px;}
 body{
 	background: #FFF;
 }
+a
+{
+	color:black;
+}
+a:hover {
+    color: #DC483A;
+}
+.header_class
+{
+	margin-top: 50px;
+
+}
+
 .wrap{
 	width:80%;
 	margin:0 auto;
@@ -371,8 +384,8 @@ body{
 }
 .about-left{
 	width:70%;
-	margin-top:1%;
 	float:left;
+	margin-top: 10%
 }
 .about-left span{
 	font-family: Arial, sans-serif;
@@ -398,7 +411,7 @@ body{
 	border-bottom: 1px dashed rgba(0, 0, 0, 0.06);
 }
 .about {
-	margin-top: 15%;
+	margin-top: 200px;
 }
 /*----about-histore----*/
 .about-histore{
@@ -407,20 +420,19 @@ body{
 .about-histore h3{
 	font-family: 'Open Sans', sans-serif;
 	padding: 15px 0px 15px 0px;
-	margin-bottom: 13px;	
+	margin-bottom: 13px;
 	color: black;
 	font-size: 1.5em;
 	text-transform: uppercase;
 }
-.about-histore ul li img{
+.about-histore ul li span{
 	color: black;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
-	/*padding: 10px 20px;*/
+	padding: 10px 20px;
 	margin-bottom: 13px;
 	float: left;
 	background: #EEE;
-	max-width: 11%;
 }
 .about-histore ul li p{
 	font-size: 0.8125em;
@@ -429,7 +441,7 @@ body{
 	font-family: Arial, sans-serif;
 	padding: 0px 0px 20px 0px;
 	float: right;
-	width: 87%;
+	width: 91%;
 	border:none;
 }
 .about-histore ul li p label{
@@ -1024,4 +1036,14 @@ background: url(../images/icon1.png) no-repeat 100% -0% black;
 
 padding-top:0px;
 
+}
+.meow{
+	font-family: Arial, Sans-Serif;
+}
+
+
+h4 {
+font-size: 1.2em;
+font-family: Helvetica, sans-serif;
+padding: 10px 0px 10px 0px;
 }
