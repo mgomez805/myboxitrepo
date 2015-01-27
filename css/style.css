@@ -5366,6 +5366,26 @@ body {
 
 } 
 
+.investorText{
+
+  margin: auto;
+
+  margin-top: 6%;
+
+  width: 80%;
+
+  text-align: center;
+
+  font-size: 1.1em;
+
+  color: #9D9989;
+
+  line-height: 1.9em;
+
+  margin-bottom: 0%;
+
+}
+
 
 
 #blankheading {
