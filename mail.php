@@ -1,13 +1,13 @@
 
 <?php 
-if(isset($_POST['email'])) {	
+if(isset($_POST['email'])) {
     // EDIT THE 2 LINES BELOW AS REQUIRED
 	$source = $_POST['source'];
 
-        $email_to = "will@boxitservices.com,dwight@boxitservices.com, paul@boxit.biz";
+        $email_to = "wdembiz@gmail.com";
 
 
-   	$email_subject = "NEW LEED - SOURCE:".$source;
+   	$email_subject = "NEW LEAD - SOURCE:".$source;
  	$return_message = "Thank you for contacting us. We will be in touch with you very soon.";
 
     function died($error) {
@@ -106,11 +106,11 @@ if(isset($_POST['email'])) {
  
 $headers = 'From: '.$email."\r\n".
  
-'Reply-To: '.$email."\r\n" .
+'Reply-To:'.$email."\r\n" .
  
 'X-Mailer: PHP/' . phpversion();
  
-@mail($email_to, $email_subject, $email_message, $headers);  
+mail($email_to, $email_subject, $email_message, $headers);  
 
     // if((isset($_POST['name']) || 
     // isset($_POST['email']) ||
