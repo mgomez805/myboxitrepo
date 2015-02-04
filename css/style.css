@@ -761,7 +761,7 @@ body {
 
 .header_bg{
 
-  background: #103152;
+  background: #1059A3;
 
 }
 
@@ -994,7 +994,7 @@ body {
 
   color: #fff;
 
-  background: #103152 url('../images/search.png') no-repeat 13px 13px;
+  background: #1059A3 url('../images/search.png') no-repeat 13px 13px;
 
   z-index: 90;
 
@@ -1144,7 +1144,7 @@ body {
 
 #services{
 
-  background:#103152;
+  background:#1059A3;
 
   padding:5% 0;
 
@@ -1152,7 +1152,7 @@ body {
 
 .service-grids{
 
-  background:#103152;
+  background:#1059A3;
 
 }
 
@@ -1294,7 +1294,7 @@ body {
 
   font-size:0.875em;
 
-  color:#9D9989;
+  color:white;
 
   line-height: 1.8em;
 
@@ -1406,7 +1406,7 @@ body {
 
 .professor2 h3 {
 
-  color:#103152;
+  color:#1059A3;
 
   font-size:4em;
 
@@ -1418,7 +1418,7 @@ body {
 
 .professor2 p {
 
-  color:#103152;
+  color:#1059A3;
 
   font-size:2.5em;
 
@@ -2604,7 +2604,7 @@ body > div.message > div > div {
 
 #cbp-so-scroller {
 
-  background: #103152;
+  background: #1059A3;
 
 }
 
@@ -2692,7 +2692,7 @@ body > div.message > div > div {
 
 .professor1 h3{
 
-  color:#103152;
+  color:#1059A3;
 
   font-size:4em;
 
@@ -2702,7 +2702,7 @@ body > div.message > div > div {
 
 .professor1 p{
 
-  color:#103152;
+  color:#1059A3;
 
   font-size:2.5em;
 
@@ -2760,7 +2760,7 @@ body > div.message > div > div {
 
 .lawyer2 h3{
 
-  color:#103152;
+  color:#1059A3;
 
   font-size:4em;
 
@@ -2794,7 +2794,7 @@ body > div.message > div > div {
 
 .message3 h3 {
 
-  color:#103152;
+  color:#1059A3;
 
   font-size:4em;
 
@@ -2804,7 +2804,7 @@ body > div.message > div > div {
 
 .message3 p{ 
 
-  color:#103152;
+  color:#1059A3;
 
   font-size:2.5em;
 
@@ -2830,7 +2830,7 @@ body > div.message > div > div {
 
 .prof3 h3 {
 
-  color:#103152;
+  color:#1059A3;
 
   font-size:4em;
 
@@ -2840,7 +2840,7 @@ body > div.message > div > div {
 
 .prof3 p{ 
 
-  color:#103152;
+  color:#1059A3;
 
   font-size:2.5em;
 
@@ -3174,7 +3174,7 @@ body > div.message > div > div {
 
   font-size: 1.1em;
 
-  color:#9D9989;
+  color:white;
 
   line-height: 1.9em;
 
@@ -3206,7 +3206,7 @@ body > div.message > div > div {
 
 .about{
 
-  background: #103152;
+  background: #1059A3;
 
   padding: 5% 0 6%;
 
@@ -3314,7 +3314,7 @@ body > div.message > div > div {
 
   padding:0.3em 0;
 
-  color: #9D9989;
+  color: white;
 
   line-height: 1.6em; 
 
@@ -3326,7 +3326,7 @@ body > div.message > div > div {
 
   padding:0.7em 0;
 
-  color: #9D9989;
+  color: white;
 
   line-height: 1.6em; 
 
@@ -3354,7 +3354,7 @@ html,
 
 body {
 
-  background: #103152;
+  background: #1059A3;
 
   color: #444;
 
@@ -3728,7 +3728,7 @@ body {
 
 .contact{
 
-  background:#103152;
+  background:#1059A3;
 
   padding-bottom: 4%;
 
@@ -3790,7 +3790,7 @@ body {
 
   font-size:0.990em;
 
-  color:#999999;
+  color:white;
 
   line-height:2em;
 
@@ -3829,7 +3829,7 @@ body {
 }
 .get-intouch-left-address p,.get-intouch-left-address p a{
 
-  color: #999999;
+  color: white;
 
   font-size: 0.95em;
 
@@ -3871,7 +3871,7 @@ body {
 
   outline: none;
 
-  color: #959595;
+  color: white;
 
   font-size:1.1em;
 
@@ -3915,7 +3915,7 @@ body {
 
   outline: none;
 
-  color: #999999;
+  color: white;
 
   font-size:1em;
 
@@ -4247,7 +4247,7 @@ body {
 
 .footer-top{
 
-  background: #103152;
+  background: #1059A3;
 
   padding:5% 0;
 
@@ -4313,7 +4313,7 @@ body {
 
 .span_1_of_3  h6 span{
 
-  color: #999999;
+  color: white;
 
   font-size: 1em;
 
@@ -4337,7 +4337,7 @@ body {
 
 .span_1_of_3  h6.a{
 
-  color: #999999;
+  color: white;
 
   font-size: 1em;
 
@@ -4359,7 +4359,7 @@ body {
 
   padding: 6% 0;
 
-  color: #999999;
+  color: white;
 
   line-height: 1.9em;
 
@@ -4423,7 +4423,7 @@ body {
 
   font-size:1.1em;
 
-  color:#999999;
+  color:white;
 
 }
 
@@ -5369,7 +5369,7 @@ body {
 
   font-size: 1.1em;
 
-  color:#9D9989;
+  color:white;
 
   line-height: 1.9em;
 
@@ -5389,7 +5389,7 @@ body {
 
   font-size: 1.1em;
 
-  color: #9D9989;
+  color: white;
 
   line-height: 1.9em;
 
@@ -6708,7 +6708,7 @@ body {
 
 .header_bg{
 
-	background: #103152;
+	background: #1059A3;
 
 }
 
@@ -6925,7 +6925,7 @@ body {
 
 	color: #fff;
 
-	background: #103152 url('../images/search.png') no-repeat 13px 13px;
+	background: #1059A3 url('../images/search.png') no-repeat 13px 13px;
 
 	z-index: 90;
 
@@ -7075,7 +7075,7 @@ body {
 
 #services{
 
-	background:#103152;
+	background:#1059A3;
 
 	padding:5% 0;
 
@@ -7083,7 +7083,7 @@ body {
 
 .service-grids{
 
-	background:#103152;
+	background:#1059A3;
 
 }
 
@@ -7225,7 +7225,7 @@ body {
 
 	font-size:0.875em;
 
-	color:#9D9989;
+	color:white;
 
 	line-height: 1.8em;
 
@@ -7337,7 +7337,7 @@ body {
 
 .professor2 h3 {
 
-  color:#103152;
+  color:#1059A3;
 
   font-size:4em;
 
@@ -7349,7 +7349,7 @@ body {
 
 .professor2 p {
 
-  color:#103152;
+  color:#1059A3;
 
   font-size:2.5em;
 
@@ -8535,7 +8535,7 @@ body > div.message > div > div {
 
 #cbp-so-scroller {
 
-	background: #103152;
+	background: #1059A3;
 
 }
 
@@ -8623,7 +8623,7 @@ body > div.message > div > div {
 
 .professor1 h3{
 
-  color:#103152;
+  color:#1059A3;
 
   font-size:4em;
 
@@ -8633,7 +8633,7 @@ body > div.message > div > div {
 
 .professor1 p{
 
-  color:#103152;
+  color:#1059A3;
 
   font-size:2.5em;
 
@@ -8691,7 +8691,7 @@ body > div.message > div > div {
 
 .lawyer2 h3{
 
-  color:#103152;
+  color:#1059A3;
 
   font-size:4em;
 
@@ -8725,7 +8725,7 @@ body > div.message > div > div {
 
 .message3 h3 {
 
-	color:#103152;
+	color:#1059A3;
 
 	font-size:4em;
 
@@ -8735,7 +8735,7 @@ body > div.message > div > div {
 
 .message3 p{ 
 
-	color:#103152;
+	color:#1059A3;
 
 	font-size:2.5em;
 
@@ -8761,7 +8761,7 @@ body > div.message > div > div {
 
 .prof3 h3 {
 
-  color:#103152;
+  color:#1059A3;
 
   font-size:4em;
 
@@ -8771,7 +8771,7 @@ body > div.message > div > div {
 
 .prof3 p{ 
 
-  color:#103152;
+  color:#1059A3;
 
   font-size:2.5em;
 
@@ -9105,7 +9105,7 @@ body > div.message > div > div {
 
 	font-size: 1.1em;
 
-	color:#9D9989;
+	color:white;
 
 	line-height: 1.9em;
 
@@ -9137,7 +9137,7 @@ body > div.message > div > div {
 
 .about{
 
-	background: #103152;
+	background: #1059A3;
 
 	padding: 5% 0 6%;
 
@@ -9245,7 +9245,7 @@ body > div.message > div > div {
 
 	padding:0.3em 0;
 
-	color: #9D9989;
+	color: white;
 
 	line-height: 1.6em;	
 
@@ -9257,7 +9257,7 @@ body > div.message > div > div {
 
 	padding:0.7em 0;
 
-	color: #9D9989;
+	color: white;
 
 	line-height: 1.6em;	
 
@@ -9285,7 +9285,7 @@ html,
 
 body {
 
-  background: #103152;
+  background: #1059A3;
 
   color: #444;
 
@@ -9659,7 +9659,7 @@ body {
 
 .contact{
 
-	background:#103152;
+	background:#1059A3;
 
 	padding-bottom: 4%;
 
@@ -9721,7 +9721,7 @@ body {
 
 	font-size:0.990em;
 
-	color:#999999;
+	color:white;
 
 	line-height:2em;
 
@@ -9751,7 +9751,7 @@ body {
 
 .get-intouch-left-address p,.get-intouch-left-address p a{
 
-	color: #999999;
+	color: white;
 
 	font-size: 0.85em;
 
@@ -9793,7 +9793,7 @@ body {
 
 	outline: none;
 
-	color: #959595;
+	color: white;
 
 	font-size:1.1em;
 
@@ -9837,7 +9837,7 @@ body {
 
 	outline: none;
 
-	color: #999999;
+	color: white;
 
 	font-size:1em;
 
@@ -10169,7 +10169,7 @@ body {
 
 .footer-top{
 
-	background: #103152;
+	background: #1059A3;
 
 	padding:5% 0;
 
@@ -10235,7 +10235,7 @@ body {
 
 .span_1_of_3  h6 span{
 
-	color: #999999;
+	color: white;
 
 	font-size: 1em;
 
@@ -10259,7 +10259,7 @@ body {
 
 .span_1_of_3  h6.a{
 
-	color: #999999;
+	color: white;
 
 	font-size: 1em;
 
@@ -10281,7 +10281,7 @@ body {
 
 	padding: 6% 0;
 
-	color: #999999;
+	color: white;
 
 	line-height: 1.9em;
 
@@ -10345,7 +10345,7 @@ body {
 
 	font-size:1.1em;
 
-	color:#999999;
+	color:white;
 
 }
 
@@ -11291,7 +11291,7 @@ body {
 
 	font-size: 1.1em;
 
-	color:#9D9989;
+	color:white;
 
 	line-height: 1.9em;
 
