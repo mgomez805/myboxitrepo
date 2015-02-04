@@ -185,7 +185,7 @@ mail($email_to, $email_subject, $email_message, $headers);
 <div class="wrap">
 	<div class="header">
 		<div class="logo">
-			<h1><a href="index.html"><img src="images/boxitsub_logo.png" alt=""/></a></h1>
+			<h1><a href="index.html"><img src="images/boxitlogo_v2.png" alt=""/></a></h1>
 		</div>
 		<div class="h_right">
 			<ul class="menu">		
@@ -263,7 +263,7 @@ mail($email_to, $email_subject, $email_message, $headers);
 <div class="footer-bottom">
 	<div class="wrap">
 		<div class="image">
-			<a href="index.html"><img src="images/boxitsub_logo.png" alt=""></a>
+			<a href="index.html"><img src="images/boxitsub_log o.png" alt=""></a>
 		</div>	
 		<div class="copy-right">
 			

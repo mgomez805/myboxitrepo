@@ -777,7 +777,7 @@ body {
   background-color: #DCDCDC;
   border-radius: 4px;
   width: 140px;
-  padding: 10px 5px 10px 10px;
+  padding: 12px 10px 10px 12px;
 }
 
 .logo h1 a{
@@ -3817,7 +3817,16 @@ body {
   text-align: center;
 
 }
+.get-intouch-left-address{
 
+
+  display:inline-block;
+
+  width: 49%;
+
+  vertical-align: top;
+
+}
 .get-intouch-left-address p,.get-intouch-left-address p a{
 
   color: #999999;
@@ -3825,6 +3834,8 @@ body {
   font-size: 0.95em;
 
   line-height:2.3em;
+
+  vertical-align: top;
 
   transition:0.5s all;
 
@@ -6747,6 +6758,7 @@ body {
 
 	color: #25BEA0;
 
+
 }
 
 .menu li a{
@@ -6761,7 +6773,7 @@ body {
 
 	margin:0px 20px;
 
-	font-weight: 300;
+	font-weight: bold;
 
 	-webkit-transition: all 0.3s ease-in-out;
 
@@ -9741,9 +9753,11 @@ body {
 
 	color: #999999;
 
-	font-size: 0.95em;
+	font-size: 0.85em;
 
-	line-height:2.3em;
+	line-height:1.3em;
+
+  display: inline-block;
 
 	transition:0.5s all;
 
@@ -9771,7 +9785,7 @@ body {
 
 	padding: 7px;
 
-	width: 48%;
+	width: 47%;
 
 	margin: 2% 2% 0 0;
 
@@ -11828,9 +11842,12 @@ body {
   color:#fff;
 
   font-size:2.5em;
+}
+.privacyNotice{
 
 
+  color:white;
+  display:inline;
 
 }
-
 >>>>>>> 81d7bad739b875f732726cd7b6519e2a01510d7c
