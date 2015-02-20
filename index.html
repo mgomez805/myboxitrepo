@@ -9,6 +9,9 @@
 <link rel="stylesheet" type="text/css" href="css/magnific-popup1.css">
 <link rel="stylesheet" type="text/css" href="css/prettyPhoto.css">	
 
+	<!-- twitterFetcher feed -->
+	<script type="text/javascript" src="js/twitterFetcher.js"></script>
+
 	<!--  jquery plguin -->
   <script type="text/javascript" src="js/jquery.min.js"></script>
 
@@ -716,18 +719,43 @@
 <!-- footer-top -->
 <div class="footer-top">
 	<div class="wrap">
-		<div class="col_1_of_3 span_1_of_3">
+<!-- 		<div class="col_1_of_3 span_1_of_3">
 			<h5>RECENT TWEETS</h5>
-				<a class="twitter-timeline" href="https://twitter.com/BoxItBob" data-widget-id="500393225387921408">Tweets by @BoxItBob</a>
-					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-					</script>
+			<div class="col_1_of_3 span_1_of_3">
+				<a class="twitter-timeline" 
+				href="https://twitter.com/BoxIT_Services" 
+				data-widget-id="563149904399175680"
+				width="350"
+				height="400">Tweets by @BoxIT_Services</a>
 
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			</div>
+		</div> -->
+
+		<div class="example1">
+			<script type="text/javascript">
+				var config1 = {
+				  "id": '563149904399175680',
+				  "domId": 'example1',
+				  "maxTweets": 1,
+				  "enableLinks": true
+				};
+				twitterFetcher.fetch(config1);
+			</script>
 		</div>
+
+		<div class="fbrss">
+			<h5 id="fbrss_title">RECENT FACEBOOK POSTS</h5>
 			
+			<!-- start feedwind code -->
+			<script type="text/javascript">document.write('\x3Cscript type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https://' : 'http://') + 'feed.mikle.com/js/rssmikle.js">\x3C/script>');</script>
+
+			<script type="text/javascript">(function() {var params = {rssmikle_url: "http://www.facebook.com/feeds/page.php?format=rss20&id=%201493601384240076",rssmikle_frame_width: "350",rssmikle_frame_height: "400", border_radius: "5", frame_height_by_article: "",rssmikle_target: "_top",rssmikle_font: "Trebuchet MS, Verdana, Arial",rssmikle_font_size: "14",rssmikle_border: "off",responsive: "off",rssmikle_css_url: "",text_align: "left",text_align2: "justify",corner: "on",scrollbar: "off",autoscroll: "on_mc",scrolldirection: "up",scrollstep: "5",mcspeed: "30",sort: "New",rssmikle_title: "on",rssmikle_title_sentence: "Facebook Wall",rssmikle_title_link: "",rssmikle_title_bgcolor: "#CCCCCC",rssmikle_title_color: "#303030",rssmikle_title_bgimage: "",rssmikle_item_bgcolor: "#303030",rssmikle_item_bgimage: "",rssmikle_item_title_length: "55",rssmikle_item_title_color: "#CCCCCC",rssmikle_item_border_bottom: "on",rssmikle_item_description: "on",item_link: "off",rssmikle_item_description_length: "150",rssmikle_item_description_color: "#CCCCCC",rssmikle_item_date: "gl1",rssmikle_timezone: "Etc/GMT",datetime_format: "%b %e, %Y %l:%M:%S %p",item_description_style: "text+tn",item_thumbnail: "full",article_num: "15",rssmikle_item_podcast: "off",keyword_inc: "",keyword_exc: ""};feedwind_show_widget_iframe(params);})();</script>
+ 
+			<div style="font-size:10px; text-align:center; width:300px;"><a href="http://feed.mikle.com/" target="_blank" style="color:#CCCCCC;">RSS Feed Widget</a></div>
+		</div>
 				 <div class="clear"></div>
-				 </div>
-
-
+	</div>
 </div>
 <div class="footer-bottom">
 	<div class="wrap">
